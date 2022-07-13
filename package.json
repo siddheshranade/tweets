@@ -1,0 +1,14 @@
+{
+  "name": "tweets",
+  "version": "1.0.0",
+  "description": "A website to display bookmarked tweets.",
+  "main": "scripts.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "twit": "^2.2.11"
+  }
+}

@@ -1,0 +1,10 @@
+body {
+    background-color: lightblue;
+}
+
+#tweet-display-parent {
+    margin: 20% auto;
+    width: 500px;
+    height: 200px;
+    background-color: white;
+}
